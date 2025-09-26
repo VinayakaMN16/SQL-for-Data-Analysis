@@ -1,15 +1,15 @@
-SQL Queries – RetailData
-📌 Overview
+### SQL Queries – RetailData
+## 📌 Overview
 
 This repository contains SQL queries written for practicing and demonstrating fundamental SQL operations using a dataset called RetailData.
 The queries showcase filtering, grouping, ordering, and aggregation.
 
-📂 File Description
+## 📂 File Description
 
-task1.sql
+SQL_Queries.sql
 Contains a set of SQL queries to explore and analyze retail transaction data.
 
-🗄️ Dataset
+## 🗄️ Dataset
 
 The queries assume a table named RetailData with at least the following columns:
 
@@ -23,7 +23,7 @@ Amount – Transaction amount
 
 (If your actual schema has more columns, update this section accordingly.)
 
-🛠️ Queries Included
+## 🛠️ Queries Included
 
 Filtering & Ordering
 
@@ -35,7 +35,7 @@ Calculate total revenue by country.
 
 (More queries can be listed here once all sections of the SQL file are included.)
 
-🎯 Purpose
+## 🎯 Purpose
 
 This file is intended for:
 
